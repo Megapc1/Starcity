@@ -1,0 +1,15 @@
+@media only screen and (max-width: 720px) {
+  .hero-section {
+    display: flex;
+    gap: 39em;
+  }
+  .hero-section .second {
+    gap: 2em;
+  }
+  header {
+    display: none;
+  }
+  .nav-two .selects {
+    display: none;
+  }
+}/*# sourceMappingURL=mediaQuery.css.map */
